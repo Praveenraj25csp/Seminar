@@ -1,0 +1,12 @@
+{
+  "roll": "25CSP002",
+  "recipient_name": "Praveenraj Jothi",
+  "program": "MTech in Cybersecurity",
+  "issuer": "The Northcap University",
+  "issuer_id": "987654321",
+  "secret_key": "../outputs/issuer_portal_keys/987654321.sk",
+  "pub_key": "../outputs/issuer_portal_keys/987654321.pub",
+  "out_dir": "../outputs/originals",
+  "assets_dir": "../assets",
+  "alg": "Dilithium2"
+}

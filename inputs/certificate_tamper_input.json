@@ -1,0 +1,5 @@
+{
+  "pdf": "../outputs/originals/Certificate_2025112025CSP002_signed.pdf",
+  "out": "../outputs/tampered/Certificate_2025112025CSP002_signed.pdf",
+  "payload_change": "name=Praveenraj Johti"
+}

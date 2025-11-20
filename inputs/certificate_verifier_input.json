@@ -1,0 +1,6 @@
+{
+  "pdf": "../outputs/tampered/Certificate_2025112025CSP002_signed.pdf",
+  "pubkey": "../outputs/issuer_portal_keys/987654321.pub",
+  "expect_alg": "Dilithium2",
+  "print_payload": false
+}

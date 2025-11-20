@@ -1,0 +1,5 @@
+{
+  "issuer_id": "987654321",
+  "out_dir": "../outputs/issuer_portal_keys",
+  "alg": "Dilithium2"
+}
